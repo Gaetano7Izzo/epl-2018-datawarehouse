@@ -5,8 +5,6 @@
 
 **Analisi avanzata del campionato inglese** con modellazione DWH a fiocco di neve e visualizzazioni interattive.
 
-![Dashboard Preview](analysis_screenshots/goal_analysis.png)
-
 ---
 
 ## 📌 Struttura del Progetto
